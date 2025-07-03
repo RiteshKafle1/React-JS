@@ -1,0 +1,2 @@
+React Router -> framework that allow us to handle client and server side routing 
+We can create single page application,by allowing navigation without refreshing/reloading the web page
